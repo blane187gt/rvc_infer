@@ -9,7 +9,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="rvc_infer",
-    version="1.2.1",  # Increment the version number here
+    version="1.3.1",  # Increment the version number here
     description="Python wrapper for inference with rvc",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
