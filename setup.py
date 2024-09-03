@@ -43,7 +43,7 @@ setup(
         "gradio",
         "librosa",
         "numpy",
-        "audio-separator[gpu]",
+        "audio-separator",
         "scipy",
         "yt-dlp",
         "onnxruntime-gpu",
