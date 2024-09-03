@@ -12,7 +12,7 @@ setup(
 
     name="rvc_infer",
 
-    version="1.0.2",
+    version="1.0.1",
 
     description="Python wrapper for inference with rvc",
 
