@@ -6,6 +6,13 @@
 
 
 
+[![Open In Collab](https://img.shields.io/badge/google_colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1bM1LB2__WNFxX8pyZmUPQZYq7dg58YWG?usp=sharing)
+
+
+
+
+
+
 ---
 
 A streamlined Python wrapper for inference with RVC. Specifically designed for inference tasks.
