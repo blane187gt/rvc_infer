@@ -23,7 +23,7 @@ setup(
     install_requires=[
         "deemix",
         "fairseq", 
-        "faiss_cpu==1.7.3", 
+        "faiss_cpu", 
         "ffmpeg-python>=0.2.0",
         "resampy==0.4.2",
         "gradio",
