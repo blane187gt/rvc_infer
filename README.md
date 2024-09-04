@@ -1,6 +1,11 @@
 
 # **RVC INFER**
 
+
+[![open in hf](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-s?labelColor=YELLOW&color=FFEA00)](https://huggingface.co/spaces/Blane187/rvc_infer)
+
+
+
 ---
 
 A streamlined Python wrapper for inference with RVC. Specifically designed for inference tasks.
