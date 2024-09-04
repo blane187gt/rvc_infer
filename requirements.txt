@@ -6,7 +6,7 @@ gradio
 lib
 librosa
 numpy
-audio-separator[gpu]==0.17.5
+audio-separator
 scipy
 yt_dlp
 onnxruntime_gpu
