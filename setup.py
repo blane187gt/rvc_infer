@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="rvc_infer",
-    version="6.7.1", Increment the version number here
+    version="6.7.1", 
     description="Python wrapper for inference with rvc",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
