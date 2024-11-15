@@ -1,15 +1,12 @@
 import os
-
 import platform
-
 import pkg_resources
-
 from setuptools import find_packages, setup
 
 
 setup(
     name="rvc_infer",
-    version="2024.1.5.1",  # Increment the version number here
+    version="6.7.1", Increment the version number here
     description="Python wrapper for inference with rvc",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
@@ -19,7 +16,7 @@ setup(
     url="https://github.com/blane187gt/rvc_infer",
     license="MIT",
     packages=find_packages(),
-    package_data={'': ['*.txt', '*.rep', '*.pickle']},
+    
     install_requires=[
         "deemix",
         "fairseq", 
