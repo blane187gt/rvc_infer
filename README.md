@@ -2,7 +2,7 @@
 # **RVC INFER**
 
 
-[![open in hf](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-s?labelColor=YELLOW&color=FFEA00)](https://huggingface.co/spaces/Blane187/rvc_infer)
+[
 
 
 
@@ -35,7 +35,7 @@ pip install rvc_infer
 ### download online models
 
 ```
-from rvc_infer import download_online_model
+from rvc_infer import download_rvc_model
 
 
 
