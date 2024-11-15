@@ -93,7 +93,7 @@ def extract_zip(extraction_folder, zip_name):
         if os.path.isdir(os.path.join(extraction_folder, filepath)):
             shutil.rmtree(os.path.join(extraction_folder, filepath))
 
-def download_online_model(url, dir_name):
+def download_rvc_model(url, dir_name):
     try:
         print(f'[~] Downloading voice model with name {dir_name}...')
         zip_name = url.split('/')[-1]
